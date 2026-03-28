@@ -1,0 +1,27 @@
+{
+    "metadata": {
+        "sources": [
+            "National Judicial Data Grid (NJDG)",
+            "India Justice Report 2022"
+        ],
+        "disclaimer": "Approximate figures for simulation calibration"
+    },
+    "pendency": {
+        "total_pending": "~5 crore (50 million)",
+        "district_courts": 44000000,
+        "high_courts": 6100000,
+        "backlog_estimate": "Decades at current disposal rate"
+    },
+    "case_distribution": {
+        "criminal": 0.35,
+        "civil": 0.40,
+        "family": 0.15,
+        "commercial": 0.10
+    },
+    "judges": {
+        "total_working": 19858,
+        "vacancy_percent": 19.4,
+        "per_million_population": 15,
+        "recommended_per_million": 50
+    }
+}

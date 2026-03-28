@@ -1,0 +1,8 @@
+# NyayaEnv
+nyaya_venv/
+models/
+outputs/
+logs/
+__pycache__/
+*.pyc
+.pytest_cache/

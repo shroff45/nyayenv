@@ -1,0 +1,33 @@
+{
+    "metadata": {
+        "source": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+        "replaces": "Code of Criminal Procedure (CrPC), 1973"
+    },
+    "sections": {
+        "173_2": {
+            "title": "Investigation completion deadlines",
+            "deadline_minor_days": 90,
+            "deadline_major_days": 180,
+            "consequence": "Default bail if exceeded"
+        },
+        "176_3": {
+            "title": "Evidence submission timeline",
+            "deadline": "Within investigation period"
+        },
+        "193": {
+            "title": "Judgment delivery",
+            "deadline_days": 30
+        }
+    },
+    "bsa_sections": {
+        "63": {
+            "title": "Admissibility of electronic records",
+            "source": "Bharatiya Sakshya Adhiniyam, 2023",
+            "requirements": [
+                "Hash verification for integrity",
+                "Certificate of authenticity",
+                "Chain of custody documented"
+            ]
+        }
+    }
+}
